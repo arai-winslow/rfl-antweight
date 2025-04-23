@@ -1,6 +1,6 @@
 ## Here are the pictures of the thing!
 ### Real life picture
-<img width="725" alt="real life" src="https://github.com/user-attachments/assets/e6b12c2b-72f5-48c6-aa71-778c09347ed9" />
+<img width="725" alt="real life" src="https://github.com/user-attachments/assets/4c854af7-6d2d-46e1-a217-bf17d6203bd2" />
 
 ### Screenshot without the components
 <img width="725" alt="screenshot without the components" src="https://github.com/user-attachments/assets/9ee9d142-a33e-49d2-988c-79367dcf5727" />
